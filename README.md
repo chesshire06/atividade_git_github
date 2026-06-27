@@ -1,6 +1,6 @@
 # Lista de Exercícios em Python
 
-Aluno: Eloisa dos Santos Zeferino
+Aluno: Eloisa dos Santos Zeferino | Matrícula: 202600099317
 
 Repositório contendo a resolução dos exercícios da disciplina de Programação A.
 
