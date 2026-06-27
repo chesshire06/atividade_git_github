@@ -2,10 +2,9 @@
 
 Aluno: Eloisa dos Santos Zeferino | Matrícula: 202600099317
 
-Repositório contendo a resolução dos exercícios da disciplina de Programação A.
+Repositório contendo a resolução dos exercícios de compreensão de listas da disciplina de Programação A.
 
 ## Arquivos
-
 - ex01.py
 - ex02.py
 - ex03.py
